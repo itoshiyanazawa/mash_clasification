@@ -2,4 +2,4 @@ streamlit
 Pillow
 Keras
 TensorFlow
-protobuf~=3.19.0
+protobuf==3.9.2
