@@ -11,6 +11,9 @@ As a data scientist, I have developed a machine learning model that is capable o
 With this web app, you can easily upload a photo of a mushroom and have it classified instantly. Whether you are a mushroom forager or simply curious about the mushrooms in your backyard, this app is a reliable tool to help you make safe decisions. 
 
 So, go ahead and give it a try!
+
+※CAUTION: The rejection criteria are only a guide. They may be misrecognized.
+
 ## Demo
 Try this from the link!
 https://mashclasification-9ckegyf6yxrlecipzw9tzh.streamlit.app/
