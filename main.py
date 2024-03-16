@@ -7,7 +7,8 @@ import io
 from keras.models import Sequential
 from keras.layers import Activation, Dense
 from keras.layers import Conv2D, MaxPooling2D, Flatten
-from keras.preprocessing.image import ImageDataGenerator
+# from keras.preprocessing.image import ImageDataGenerator
+# from tensorflow.keras.utils import load_img
 import numpy as np
 from json import load
 import sys
