@@ -1,6 +1,7 @@
 
 # Mashroom Clasification Web App
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img align="center" height="150" src="24989308_MotionElements_hud-monochrome-front_converted_727542-480x270-3s-q2.gif"  />
+
 
 Welcome to my Mushroom Classification Web App!
 This app is designed to help you detect whether a mushroom is poisonous or not by simply loading a photo. 
