@@ -24,8 +24,11 @@ By uploading your mashroom photo (JPG or JPEG format), it can return result.
 
 ## 💻 Used Software
 Python
+
 streamlit
+
 Keras
+
 numpy
 
 ## How I built
