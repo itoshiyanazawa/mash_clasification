@@ -1,6 +1,6 @@
 
 # Mashroom Clasification Web App
-<img align="center" height="150" src="24989308_MotionElements_hud-monochrome-front_converted_727542-480x270-3s-q2.gif"  />
+<img align="center" height="400" src=""  />
 
 
 Welcome to my Mushroom Classification Web App!
@@ -14,6 +14,6 @@ So, go ahead and give it a try!
 ## Demo
 https://mashclasification-9ckegyf6yxrlecipzw9tzh.streamlit.app/
 
-![DEMO](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img align="center" height="400" src="Screen Recording 2024-03-15 at 10.15.10 PM.gif"  />
 
 By uploading your mashroom photo (JPG or JPEG format), it can return result.
