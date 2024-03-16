@@ -31,10 +31,10 @@ if upload_file is not None:
     result = model.predict(np_image)
     
     if result[0][0] > result[0][1]:
-        st.write("結果は椎茸")
+        st.write("Result: Shiitake Mashroom")
 
     else:
-        st.write("結果は月夜茸")
+        st.write("Result: This mushroom is poisonous")
 
     st.image(image, caption='Uploaded Image.', use_column_width=True)
     st.write('※判断基準はあくまで目安です。誤認識する場合があります。')
