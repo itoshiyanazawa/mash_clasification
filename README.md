@@ -12,6 +12,7 @@ With this web app, you can easily upload a photo of a mushroom and have it class
 
 So, go ahead and give it a try!
 ## Demo
+Try this from the link below!
 https://mashclasification-9ckegyf6yxrlecipzw9tzh.streamlit.app/
 
 <img align="center" height="300" src="Screen Recording 2024-03-15 at 10.15.10 PM.gif"  />
