@@ -12,7 +12,7 @@ With this web app, you can easily upload a photo of a mushroom and have it class
 
 So, go ahead and give it a try!
 
-※CAUTION: The rejection criteria are only a guide. They may be misrecognized.
+*※CAUTION: The rejection criteria are only a guide. They may be misrecognized.*
 
 ## Demo
 Try this from the link!
