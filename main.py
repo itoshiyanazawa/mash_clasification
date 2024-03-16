@@ -16,10 +16,10 @@ from PIL import Image
 from keras.models import load_model
 import numpy as np
 
-st.title("毒キノコ分類")
-st.subheader('椎茸 or 毒キノコ　調べるよ')
+st.title("Mashroom Clasification Web App")
+st.subheader('Help you detect whether a mushroom is poisonous or not')
 
-upload_file = st.file_uploader('JPG形式の画像を選択してください', type='jpg')
+upload_file = st.file_uploader('Upload JPG format Image', type='jpg')
 if upload_file is not None:
     image = Image.open(upload_file)
     image = image.resize((64,64))
