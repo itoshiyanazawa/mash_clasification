@@ -37,7 +37,7 @@ if upload_file is not None:
         st.write("Result: This mushroom is poisonous")
 
     st.image(image, caption='Uploaded Image.', use_column_width=True)
-    st.write('※判断基準はあくまで目安です。誤認識する場合があります。')
+    st.write('※CAUTION: The rejection criteria are only a guide. They may be misrecognized.')
 
 
     
